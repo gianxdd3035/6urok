@@ -1,0 +1,17 @@
+.start {
+    color: brown;background-color: royalblue;
+}
+body {
+    background: url("../img/second.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+}
+div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}  
